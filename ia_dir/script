@@ -1,0 +1,2 @@
+cd ./ia_dir
+./zappy_ai $@
